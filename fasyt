@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/kick/main/kid", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/cfrs/main/sdr", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/sddsd/main/sdds", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/seriuslybro/main/wsp", true))()
@@ -8,4 +9,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/comds/ma
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/exposed/main/lol", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/invisiblre/main/lolll", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/noinvisible/main/lool", true))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/kick/main/kid", true))()
